@@ -1,4 +1,4 @@
-![midnight-gospel-gif](https://github.com/Giovanilucass/Giovanilucass/blob/main/duncan-coding.gif?raw=true)
+![midnight-gospel-gif](https://github.com/Giovanilucass/Giovanilucass/blob/main/confused-huh.gif?raw=true)
 ## Hello World 👋
 Prazer! Eu sou o Lucas Giovani, estudante de Sistemas de Informação na Universidade de São Paulo, apaixonado por educação e computação, buscando por experiências na área de ciência de dados! 💻
 - 🦉 Membro do PET-SI
