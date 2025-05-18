@@ -13,4 +13,4 @@ Prazer! Eu sou o Lucas Giovani, estudante de Sistemas de Informação na Univers
 </div>
 
 ### Linguagens
-[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,js,git&theme=dark&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,js,godot,git&theme=dark&perline=15)](https://skillicons.dev)
