@@ -3,7 +3,7 @@
 Prazer! Eu sou o Lucas Giovani, estudante de Sistemas de Informação na Universidade de São Paulo, apaixonado por educação e computação, buscando por experiências na área de ciência de dados! 💻
 - 🦉 Membro do PET-SI
 - 🎓 Professor do CompETEC
-- 📚 Atualmente estudando Godot e Back-End
+- 📚 Atualmente estudando SQL e Python
 
 <div style="display: flex; align-items: center; gap: 15px;">
   <a href="https://www.linkedin.com/in/lucas-giovani/" target="_blank">
